@@ -16,11 +16,11 @@ const Page = () => {
   const hotels: Hotel[] = [
     {
         hotel_id: 1,
-        name: "Kundapur Beach Resort",
+        name: "SAMUDYATHA INN & SUITES",
         location: "Kundapur, India",
         rating: 4.8,
         price_per_night: 150,
-        amenities: ["Free Wi-Fi", "Swimming Pool", "Spa", "Gym", "Restaurant"],
+        amenities: ["Restaurant", "Bar", "Spa", "Gym", "Restaurant"],
         reviews: 1345
       },
       {
