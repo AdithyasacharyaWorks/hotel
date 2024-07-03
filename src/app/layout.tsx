@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Hotels in Kundapur",
-  description: "Best hotels in Kundapur udupi",
+  description: "Best hotels in Kundapur udupi ",
 };
 
 export default function RootLayout({
