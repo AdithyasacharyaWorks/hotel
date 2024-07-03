@@ -1,7 +1,7 @@
 export default async function sitemap(){
     return [
         {
-            url:'https://samudyuthainn.vercel.app/',
+            url:'https://samudyutha.vercel.app/',
             lastModified: new Date()
         }
     ]
